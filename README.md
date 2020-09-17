@@ -7,3 +7,5 @@ Infinity Scroll , as the name suggests gives the users an illusion
 that the photos (fetched from Unsplash) are being loaded infinitely.
 
 You can find amazing loading animations [here](https://loading.io/)
+
+![alt text](Screenshot.png)
